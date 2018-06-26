@@ -1,0 +1,6 @@
+"loadr 10"
+"loadm 39"
+"movr 39"
+"movm s3"
+"end"
+"0"
